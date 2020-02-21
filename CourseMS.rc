@@ -1,0 +1,14 @@
+load courses Courses.db
+load students Students.db
+load instructors Instructors.db
+load enrollments Enrollments.db
+load assignments Assignments.db
+status student 16111
+list students
+list courses
+assign 2321 comp226
+save enrollments e.db
+save students s.db
+save instructors .i.db
+save courses c.db
+save assignments l.db
